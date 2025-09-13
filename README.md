@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinayadura-menula-sasen-de-silva-573810310)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DMS-ranil)
 
-## 🌟 About Me
+## 🌟 About Me 
  
 I'm a passionate developer with expertise in both frontend and backend technologies. I love creating beautiful, functional applications that solve real-world problems. My journey in tech is driven by curiosity and a commitment to continuous learning.
 
