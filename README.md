@@ -68,8 +68,8 @@ Building digital experiences that are beautiful, functional, and user-friendly.
 
 ## 📬 Let’s Connect  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dinayadura-menula-sasen-de-silva-573810310)
-[![Portfolio](https://img.shields.io/badge/Portfolio-menula--de--silva.glitch.me-000?style=for-the-badge&logo=firefox&logoColor=white)](https://menula-de-silva.glitch.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmsmenula)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dmsmenula-000?style=for-the-badge&logo=firefox&logoColor=white)](https://dms-menula.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rusirunavanjaya2004@gmail.com)
 
 ---
