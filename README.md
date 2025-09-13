@@ -1,5 +1,5 @@
 <!-- Upload a nice banner image to your repo (e.g. /assets/banner-menula.png) -->
-![Banner](assets/banner-menula.png)
+![Banner](https://media.licdn.com/dms/image/v2/D4E16AQEIHFBTWIXZ2g/profile-displaybackgroundimage-shrink_350_1400/B4EZkuMfuBIMAY-/0/1757416660241?e=1760572800&v=beta&t=ihAVhWpOnZLfgsxsbiG-sSWWjvShF5RqzjDOS9qNswU)
 
 # Hi, I'm Menula De Silva 👋  
 
