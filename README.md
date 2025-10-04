@@ -4,7 +4,7 @@
 # Hi, I'm Menula De Silva 👋  
 
 **Creative Developer & Designer**  
-Building digital experiences that are beautiful, functional, and user-friendly.
+Building digital experiences that are beautiful, functional, and user-friendly. 
 
 ---
 
