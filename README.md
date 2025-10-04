@@ -11,9 +11,9 @@ Building digital experiences that are beautiful, functional, and user-friendly.
 ## 🧑‍💻 About Me  
 
 - 💡 Young tech enthusiast from **Ratnapura, Sri Lanka**  
-- 🚀 150+ projects completed; passionate about **web, design, robotics**  
-- 🎓 Learning at St. Aloysius National School + online tech institutes  
-- 🌱 Currently exploring **Three.js, AI APIs, advanced UI/UX**  
+- 🚀 30+ projects completed; passionate about **web, design, robotics**  
+- 🎓 Learning at Java Institute For Advance Technology  
+- 🌱 Currently exploring **Three.js, Electron.js, advanced UI/UX**  
 
 ---
 
