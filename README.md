@@ -1,77 +1,112 @@
-<!-- Upload a nice banner image to your repo (e.g. /assets/banner-menula.png) -->
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQEIHFBTWIXZ2g/profile-displaybackgroundimage-shrink_350_1400/B4EZkuMfuBIMAY-/0/1757416660241?e=1760572800&v=beta&t=ihAVhWpOnZLfgsxsbiG-sSWWjvShF5RqzjDOS9qNswU)
+<h1 align="center">HELLO WORLD !</h1>
 
-# Hi, I'm Menula De Silva 👋  
-
-**Creative Developer & Designer**  
-Building digital experiences that are beautiful, functional, and user-friendly. 
-
----
-
-## 🧑‍💻 About Me  
-
-- 💡 Young tech enthusiast from **Ratnapura, Sri Lanka**  
-- 🚀 30+ projects completed; passionate about **web, design, robotics**  
-- 🎓 Learning at Java Institute For Advance Technology  
-- 🌱 Currently exploring **Three.js, Electron.js, advanced UI/UX**  
-
----
-
-## 🛠 Skills  
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,flutter,php,java,nodejs,express,mysql,firebase,figma,git,github,threejs)]()
-
----
-
-## 🚀 Featured Projects  
-
-
-| Project | Description |
-|--------|-------------|
-| 🍔 [MOS BURGERS](https://mosburgers.vercel.app/) | A stylish food ordering site |
-| 🌏 [3D Solar System](https://dms-soylar-system.surge.sh/) | Interactive planetary model |
-| ☁ [Weather App](https://dms-menula.github.io/liveWeatherApp/) | Live weather updates |
-| 🤖 [Instant AI](https://dms-menula.github.io/Instant-AI/) | AI-powered assistant |
-| ✏️ [Note It](https://drive.google.com/file/d/1OR0zq1iKQCMJaqitABygLY7D82ZbM_53/view) | Simple note-taking app |
-| ✈ [Sri Lanka](https://srilanka.surge.sh/) | Travel showcase |
-| 💎 [Gem City of Ratnapura](https://studio.code.org/projects/applab/k0CXhUKX52b12a1BLJpluNthx5hIwApE_k9iqzmwTJc) | Educational app |
-| 🌍 [Wonder of Ratnapura](https://dms-menula.github.io/Wonder_Of_Sabaragamuwa/) | Local heritage site |
-| ✅ [To Do List](https://dms-menula.github.io/Todol/) | Task manager |
-| 🛒 [Winn-Dixie Shop](https://winn-dixie-shop.surge.sh/) | E-commerce demo |
-| ⛏️ [MinefunCraft](https://minefuncraft.vercel.app/) | Minecraft-themed site |
-| 💧 [Maduranga Waterproofing](https://maduranga-wateproofing.vercel.app/) | Business website |
-<details>
-  <summary>💡 See More Projects</summary>
-
-- Gem City App – Code.org  
-- Instant AI – Gemini API  
-- Mos Burgers – eCommerce App  
-… and many more on [my website](https://dms-menula.github.io/)
-</details>
-
----
-
-## 📊 GitHub Activity  
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DMS-ranil&show_icons=true&theme=tokyonight" height="160em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DMS-ranil&layout=compact&theme=tokyonight" height="160em">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DMS-ranil.DMS-ranil&left_color=forestgreen&right_color=yellow&left_text=My%20Visitor%20Count"  />
 </div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">My Contributions</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DMS-ranil/DMS-ranil/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">My Tech Stack</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/foundation/foundation-original.svg" height="40" alt="foundation logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+</div>
+
+###
+
+<div align="left">
+</div>
+
+###
+
+<h3 align="left">My Activity</h3>
+
+###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DMS-ranil&theme=tokyonight" height="160em">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DMS-ranil&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DMS-ranil&theme=tokyo-night)
-
----
-
-## 📬 Let’s Connect  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dmsmenula)
-[![Portfolio](https://img.shields.io/badge/Portfolio-dmsmenula-000?style=for-the-badge&logo=firefox&logoColor=white)](https://dms-menula.github.io/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rusirunavanjaya2004@gmail.com)
-
----
-
-![](https://komarev.com/ghpvc/?username=DMS-ranil&color=blueviolet)
+###
